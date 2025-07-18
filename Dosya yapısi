@@ -1,0 +1,5 @@
+cc-validator-kivy/
+├── main.py
+├── main.kv
+├── buildozer.spec
+└── README.md
